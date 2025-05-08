@@ -1,0 +1,47 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/47838833/Tile Testing.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 102,
+                "y": 148
+            }
+        },
+        "C:/Users/47838833/Tilesheet.tsx": {
+            "scaleInDock": 1
+        },
+        "testingmap1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 86,
+                "y": 111.33333333333331
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/47838833/comp1151prac-tilemapgame-null-brain-true/Assets/TilemapGame",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+    ],
+    "project": "tiiletesting.tiled-project",
+    "recentFiles": [
+        "C:/Users/47838833/Tile Testing.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
