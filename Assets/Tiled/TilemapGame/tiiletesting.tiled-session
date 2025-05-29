@@ -3,9 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "C:/Users/47838833/comp1151 game prototype/comp1151-game-prototype-null-brain-true/COMP1151 Game Prototype/Assets/Art/Tiled/TilemapGame/maptesting.tmx",
     "expandedProjectPaths": [
+        "."
     ],
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "C:/Users/47838833/Tile Testing.tmx": {
             "scale": 1,
@@ -18,26 +20,56 @@
         "C:/Users/47838833/Tilesheet.tsx": {
             "scaleInDock": 1
         },
+        "C:/Users/47838833/comp1151 game prototype/comp1151-game-prototype-null-brain-true/COMP1151 Game Prototype/Assets/Art/Tiled/TilemapGame/maptesting.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 61.66666666666663,
+                "y": 176.66666666666669
+            }
+        },
+        "C:/Users/47838833/comp1151 game prototype/comp1151-game-prototype-null-brain-true/COMP1151 Game Prototype/Assets/Art/Tiled/TilemapGame/tiny dungeon.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 5.5
+        },
+        "C:/Users/47838833/comp1151 game prototype/comp1151-game-prototype-null-brain-true/COMP1151 Game Prototype/Assets/Art/Tiled/TilemapGame/tiny town.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
         "testingmap1.tmx": {
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 86,
+                "x": 85.99999999999994,
                 "y": 111.33333333333331
             }
+        },
+        "tilemap.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
         }
     },
-    "last.imagePath": "C:/Users/47838833/comp1151prac-tilemapgame-null-brain-true/Assets/TilemapGame",
+    "last.externalTilesetPath": "C:/Users/47838833/comp1151 game prototype/comp1151-game-prototype-null-brain-true/COMP1151 Game Prototype/Assets/Art/Tiled/TilemapGame",
+    "last.imagePath": "C:/Users/47838833/comp1151 game prototype/comp1151-game-prototype-null-brain-true/COMP1151 Game Prototype/Assets/Art/Tiled/TilemapGame",
     "map.fixedSize": false,
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+        "C:/Users/47838833/comp1151 game prototype/comp1151-game-prototype-null-brain-true/COMP1151 Game Prototype/Assets/Art/Tiled/TilemapGame/maptesting.tmx",
+        "C:/Users/47838833/comp1151 game prototype/comp1151-game-prototype-null-brain-true/COMP1151 Game Prototype/Assets/Art/Tiled/TilemapGame/tiny dungeon.tsx",
+        "C:/Users/47838833/comp1151 game prototype/comp1151-game-prototype-null-brain-true/COMP1151 Game Prototype/Assets/Art/Tiled/TilemapGame/tiny town.tsx"
     ],
     "project": "tiiletesting.tiled-project",
     "recentFiles": [
+        "C:/Users/47838833/comp1151 game prototype/comp1151-game-prototype-null-brain-true/COMP1151 Game Prototype/Assets/Art/Tiled/TilemapGame/tiny town.tsx",
+        "C:/Users/47838833/comp1151 game prototype/comp1151-game-prototype-null-brain-true/COMP1151 Game Prototype/Assets/Art/Tiled/TilemapGame/tiny dungeon.tsx",
+        "C:/Users/47838833/comp1151 game prototype/comp1151-game-prototype-null-brain-true/COMP1151 Game Prototype/Assets/Art/Tiled/TilemapGame/maptesting.tmx",
+        "tilemap.tsx",
+        "testingmap1.tmx",
         "C:/Users/47838833/Tile Testing.tmx"
     ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
     "tileset.spacing": 1,
     "tileset.tileSize": {
